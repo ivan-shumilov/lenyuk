@@ -1,0 +1,5 @@
+SIGMA1: 'NLB-LDAP-Sigma081.sigma.sbrf.ru'
+SIGMA2: 'NLB-LDAP-Sigma082.sigma.sbrf.ru'
+DELTA1: 'NLB-LDAP-Delta101.delta.sbrf.ru'
+DELTA2: 'NLB-LDAP-Delta102.delta.sbrf.ru'
+LDAP_DOMAIN_SIGMA: 'sigma'

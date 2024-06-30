@@ -1,0 +1,7 @@
+*.pyc
+logs/
+.venv/*
+.idea/*
+.mypy_cache/
+package-lock.json
+common_settings.yml.example
